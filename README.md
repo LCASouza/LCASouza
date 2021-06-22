@@ -1,6 +1,6 @@
 ## Hey!
 
-#### My name is Lucas Augusto de Souza.
+#### My name is Lucas Souza.
 
 - Living in Goiás, Brazil 🇧🇷
 - Computer Science Student at PUC-Goiás 💻
