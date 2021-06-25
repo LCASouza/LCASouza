@@ -5,6 +5,8 @@
 - Living in Goiás, Brazil 🇧🇷
 - Computer Science Student at PUC-Goiás 💻
 
+**URI Online Judge:** <a href="https://www.urionlinejudge.com.br/judge/pt/profile/383497" target="_blank"><img src = "https://img.shields.io/static/v1?label=URI&message=JUDGE&color=<yellow>"></a>
+
 #### Studying:
 </a><img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> </a><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> </a><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 
